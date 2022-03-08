@@ -10,5 +10,5 @@
 4. run `npm run build`
 
 #### Note
-* In case of having problems using the current api, try running `export NODE_OPTIONS=--openssl-legacy-provider` \
+* In case of having problems using the current api, try running `export NODE_OPTIONS=--openssl-legacy-provider`
 before running `npm run build`
